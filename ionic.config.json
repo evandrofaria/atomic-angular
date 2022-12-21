@@ -1,0 +1,7 @@
+{
+  "name": "atomic-angular",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

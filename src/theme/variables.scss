@@ -1,0 +1,49 @@
+// Ionic Variables and Theming. For more info, please see:
+// http://ionicframework.com/docs/theming/
+
+/** Ionic CSS Variables **/
+:root {
+  /* primary */
+  //--primary-base: var(--ion-color-primary);
+  --ion-color-primary: #7C3AED;
+  --ion-color-primary-shade: #4C1D95;
+  --ion-primary-tint: #A78BFA;
+
+  /* secondary */
+  --ion-color-secondary: red;
+  --ion-secondary-shade: #006185;
+  --ion-secondary-tint: #88D5F2;
+
+  /* success */
+  --ion-success-base: #0EC16C;
+  --ion-success-shade: #00703B;
+  --ion-success-tint: #7CDEAF;
+
+  /* warning */
+  --ion-warning-base: #FF824D;
+  --ion-warning-shade: #FC7900;
+  --ion-warning-tint: #FFBA9C;
+
+  /* danger */
+  --ion-danger-base: #F5383C;
+  --ion-danger-shade: #A80004;
+  --ion-danger-tint: #FF787B;
+
+  /*  dark */
+  --ion-dark-base: #32383F;
+  --ion-dark-shade: #24292F;
+  --ion-dark-tint: #424A53;
+
+  /*  medium */
+  --ion-medium-base: #6E7781;
+  --ion-medium-shade: #8C959F;
+  --ion-medium-tint: #AFB8C1;
+
+  /*  light */
+  --ion-light-base: #EAEEF2;
+  --ion-light-shade: #D0D7DE;
+  --ion-light-tint: #F6F8FA;
+
+  /* box shadow */
+  --shadow-default: 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
+}
