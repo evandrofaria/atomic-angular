@@ -1,6 +1,6 @@
 {
   "name": "atomic-angular",
-  "version": "0.0.16",
+  "version": "0.1.0",
   "author": "Ionic Framework",
   "homepage": "https://ionicframework.com/",
   "scripts": {
@@ -10,7 +10,9 @@
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "lint": "ng lint",
-    "version:patch": "npm version patch -m 'chore(*): atualizando para a versao %s' --force"
+    "version:patch": "npm version patch -m 'chore(*): atualizando para a versao %s' --force",
+    "version:minor": "npm version minor -m 'chore(*): atualizando para a versao %s' --force",
+    "version:major": "npm version major -m 'chore(*): atualizando para a versao %s' --force"
   },
   "private": true,
   "dependencies": {
