@@ -1,6 +1,6 @@
 {
   "name": "atomic-angular",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "author": "Ionic Framework",
   "homepage": "https://ionicframework.com/",
   "scripts": {
@@ -27,6 +27,7 @@
     "@ionic/angular": "^6.1.9",
     "autoprefixer": "^10.4.13",
     "daisyui": "^2.46.0",
+    "grunt-bump": "^0.8.0",
     "ionicons": "^6.0.3",
     "rxjs": "~7.5.0",
     "tslib": "^2.3.0",
